@@ -1,0 +1,480 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antichrist unhooded, or, An Explanation of the names and titles by which the Scripture exhibits Antichrist to the world</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25652</idno>
+            <idno type="STC">Wing A3484</idno>
+            <idno type="STC">ESTC R38503</idno>
+            <idno type="EEBO-CITATION">17525198</idno>
+            <idno type="OCLC">ocm 17525198</idno>
+            <idno type="VID">106536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106536)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Antichrist unhooded, or, An Explanation of the names and titles by which the Scripture exhibits Antichrist to the world</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imperfect: pages cropped and stained, with print show-through and some loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Antichrist --  Poetry.</term>
+               <term>Anti-Catholicism --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106536:1"/>
+            <pb facs="tcp:106536:1" rendition="simple:additions"/>
+            <p>ANTICHRIST Unhooded; OR, An Explanation of the NAMES and TITLES by which the Scripture exhibits <hi>ANTICHRIST</hi> to the World.</p>
+            <q>
+               <p>And then ſhall that Wicked be revea<g ref="char:EOLhyphen"/>led, whom the Lord ſhall conſume by the Spirit of his Mouth, and ſhall de<g ref="char:EOLhyphen"/>stroy with the Brightneſs of his Com<g ref="char:EOLhyphen"/>ming.</p>
+               <bibl>
+                  <hi>2 Theſſ. 2.8.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:106536:2"/>
+            <head>Antichriſt Unhooded.</head>
+            <div type="poem">
+               <head>Preface Monitory.</head>
+               <lg>
+                  <l>THou <hi>Antichriſt,</hi> thou <hi>Babylon</hi> the Great,</l>
+                  <l>Whoſe Magnitude is founded on a Cheat;</l>
+                  <l>Thou Armed Beaſt, with Horns no leſs than Ten,</l>
+                  <l>Wherewith thou ruinest the ſons of men:</l>
+                  <l>Thou whom the Scripture calls a <hi>Myſtery</hi>
+                  </l>
+                  <l>(Not of the Truth, but) <hi>of Iniquity.</hi>
+                  </l>
+                  <l>Thou <hi>Scarlet Whore,</hi> thou wicked <hi>Man of Sin,</hi>
+                  </l>
+                  <l>That think'ſt thy Judgment never will begin:</l>
+                  <l>Look in this Glaſs, behold thine <hi>ugly hue,</hi>
+                  </l>
+                  <l>Common to all the <hi>Antichriſtian Crew.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now to my work: theſe Titles I'le explain;</l>
+                  <l>And you must know, th' are given not in vain:</l>
+                  <l>In ſenſe and meaning they are not ſo ſcant,</l>
+                  <l>As <hi>Ceremonies,</hi> call'd <hi>ſignificant.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="3" facs="tcp:106536:2"/>
+               <head>
+                  <hi>Antichriſt,</hi> under that Appellation.</head>
+               <l>HE is <hi>againſt Chriſt,</hi> alſo <hi>in his ſtead,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Gr.</hi> Againſt, <hi>for</hi> inſtead of.</note>
+               </l>
+               <l>And on Chriſt's Body ſets his Beaſtly Head:</l>
+               <l>Againſt him as a Prophet, Prieſt and Lord,</l>
+               <l>Againſt him in his People, Wayes and Word;</l>
+               <l>There is nothing 'gainſt which he hath a ſpleen,</l>
+               <l>Like ſuch wherein Chriſt's Image may be ſeen.</l>
+               <l>A holy Church, compoſ'd of theſe two Evils,</l>
+               <l>Chriſt's Picture baniſht, and imbrac'd the Devils.</l>
+               <l>For Praiſing Saints, a ſort of Bawling Sinners,</l>
+               <l>In Holineſs who never were beginners.</l>
+               <l>An idle <hi>Idol-Shepherd</hi> for a Paſtor,</l>
+               <l>For Miniſter, [well conſtrued] Lord and Maſter.</l>
+               <l>For humble <hi>Paul,</hi> my Lord Arch Biſhops <hi>Grace</hi>
+               </l>
+               <l>In th'abſtract, it is chained to his place.</l>
+               <l>Linnen and Wollen of a Sacred dye</l>
+               <l>Is put for Holineſs, and I know why:</l>
+               <l>Such Holineſs doth Antichriſt beſt pleaſe,</l>
+               <l>Becauſe it is put on and off with eaſe:</l>
+               <l>For Church, the Clergy, or a heap of Stones,</l>
+               <l>The lively Emblem of ſuch lifeleſs Droans.</l>
+               <l>For Cup, the Chalice, Altar for the Table;</l>
+               <l>And all to turn the Truth into a Fable.</l>
+               <l>Now who but Idiots will not think it ſtrange,</l>
+               <l>That Chriſt ſhould hold his own in ſuch a change?</l>
+               <l>His Church thus furniſht, you may ſafely ſwear</l>
+               <l>He's metamorphoſ'd, if you find him there.</l>
+            </div>
+            <div type="poem">
+               <pb n="4" facs="tcp:106536:3"/>
+               <head>Babylon the Great.</head>
+               <l>GReat <hi>Babylon,</hi>
+                  <note place="margin">From <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to confound.</note> whoſe name implies <hi>Confuſion,</hi>
+               </l>
+               <l>His <hi>decent Order</hi> bears the ſame concluſion.</l>
+               <l>
+                  <hi>A</hi> His Organ piping, bawling, canting <hi>Chanters,</hi>
+               </l>
+               <l>
+                  <hi>A</hi> A man would think him got among the <hi>Ranters:</hi>
+               </l>
+               <l>
+                  <hi>A</hi> Now they look one way, then they face about,</l>
+               <l>
+                  <hi>A</hi> And ſo Religion's faln into a rout.</l>
+               <l>
+                  <hi>B</hi> He <hi>Babylon</hi> is call'd, for his Oppreſſion</l>
+               <l>
+                  <hi>B</hi> Of all that don't ſubſcribe to his profeſſion.</l>
+               <l>
+                  <hi>B</hi> BABYLONS Cruelty he doth exceed,</l>
+               <l>
+                  <hi>B</hi> In making Bodies and their Souls to bleed:</l>
+               <l>
+                  <hi>B</hi> Yet if you pleaſe, come under his ſubjection</l>
+               <l>
+                  <hi>B</hi> The benefit you I have of his protection:</l>
+               <l>
+                  <hi>B</hi> But when the <hi>Holy Watcher</hi> makes a fall,</l>
+               <l>
+                  <hi>B</hi> Then down comes <hi>Babylon the Great,</hi> and all</l>
+               <l>
+                  <hi>B</hi> His Champions, Limbs, and flatr'ers, <hi>helter skelter,</hi>
+               </l>
+               <l>
+                  <hi>B</hi> Confounded and aſham'd of ſuch a ſhelter.</l>
+               <l>
+                  <hi>C</hi> 'Tis <hi>Babylon the Great,</hi> that doth include,</l>
+               <l>
+                  <hi>C</hi> Like th'other <hi>Babylon,</hi> a Multitude;</l>
+               <l>
+                  <hi>C</hi> And ſo 'tis Catholick in likelihood;</l>
+               <l>
+                  <hi>C</hi> But ſeldom go together <hi>Great</hi> and <hi>Good.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Beaſt with ten Horns.</head>
+               <lg>
+                  <l>
+                     <hi>A</hi> But why ſuch Leanred men are call'd the Beaſt,</l>
+                  <l>
+                     <hi>A</hi> This ſeems more myſtical than all the reſt.</l>
+                  <l>
+                     <hi>A</hi> Yet pauſe a while, and ſee the matter try'd,</l>
+                  <l>
+                     <hi>A</hi> You'l ſay the Man-like-Beaſt is not bely'd.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>b</hi> A naſty filthy Beaſt he is I tro;</l>
+                  <l>
+                     <hi>b</hi> There's not ſuch filth, but down with him 'twil go.</l>
+                  <pb n="5" facs="tcp:106536:3"/>
+                  <l>
+                     <hi>b</hi> Corruptions Sipiritual are no Offences,</l>
+                  <l>
+                     <hi>b</hi> For he perceives not but by carnal ſences.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>b</hi> A naſty filthy ſoul, that makes no matter,</l>
+                  <l>
+                     <hi>b</hi> So he can clenſe the outſide of the Platter;</l>
+                  <l>
+                     <hi>b</hi> Yet if the outſide in the dirt do fall,</l>
+                  <l>
+                     <hi>b</hi> A holy Garment ſerves to cover all.</l>
+                  <l>
+                     <hi>b</hi> Now gueſs, I pray you, what this Beaſt doth mean;</l>
+                  <l>
+                     <hi>b</hi> Not a Beaſt only, but a Beaſt unclean.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>c</hi> A greedy Beaſt, for's belly he doth plod,</l>
+                  <l>
+                     <hi>c</hi> The Beaſt hath reaſon for't, it is his God:</l>
+                  <l>
+                     <hi>c</hi> What is too precious for his belly then?</l>
+                  <l>
+                     <hi>c</hi> The bodies? No, nor yet the ſouls of men.</l>
+               </lg>
+               <lg>
+                  <head>Ten Horns.</head>
+                  <l>
+                     <hi>d</hi> Theſe are his Ornaments that make him brave,</l>
+                  <l>
+                     <hi>d</hi> And whilſt he <hi>wears them,</hi> who dares cal him <hi>knave?</hi>
+                  </l>
+                  <l>
+                     <hi>d</hi> But if his Dictates one ſhould ſay he ſcorns,</l>
+                  <l>
+                     <hi>d</hi> He'l teach him better manners with his Horns.</l>
+                  <l>
+                     <hi>d</hi> A Horn muſt ſerve to pour them down by force,</l>
+                  <l>
+                     <hi>d</hi> And ſo poor man is ſerved like a Horſe.</l>
+                  <l>
+                     <hi>d</hi> Yet he's concluded, and by all agreed,</l>
+                  <l>
+                     <hi>d</hi> Without his Horns a ſilly Beaſt indeed.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Myſtery of Iniquity.</head>
+               <lg>
+                  <l>A <hi>Myſtery!</hi> 'tis ſomewhat like a Trade,</l>
+                  <l>But that's <hi>mechanick,</hi> and doth much degrade</l>
+                  <l>Thoſe ſublime ſouls fixt in a heav'nly Sphear</l>
+                  <l>So high, you need good eyes to ſpie them there.</l>
+                  <l>But if you doubt their earthly, dirty dealing,</l>
+                  <l>Put out your eyes, you'l find it by the feeling.</l>
+                  <pb n="6" facs="tcp:106536:4"/>
+                  <l>What means the greatneſs of his <hi>Holineſs,</hi>
+                  </l>
+                  <l>And others, who then Popes are little leſs?</l>
+                  <l>Theſe ſell by whole-ſale to the petty Clerks</l>
+                  <l>(Whoſe ſwallows are as wide as any <hi>Sharks</hi>)</l>
+                  <l>A flock of Folk, in number more or leſs,</l>
+                  <l>From a poor Cure to a Dioceſs:</l>
+                  <l>To ſome, one Living, and to others ten,</l>
+                  <l>To trade themſelves, or by their Journy-men;</l>
+                  <l>But not a Living goes without a Bribe;</l>
+                  <l>'Tis vain to plead, <hi>Sir I am of your Tribe.</hi>
+                  </l>
+                  <l>Yet he that can but reade a Prayer-Book</l>
+                  <l>May catch a Living with a Silver hook.</l>
+                  <l>The retail Clergy being at this coſt,</l>
+                  <l>Their Trade muſt be improved to the moſt,</l>
+                  <l>And ſcrewed up unto the higheſt peg,</l>
+                  <l>Of all their Tithe they'l bate you not an Egg;</l>
+                  <l>Beſides your coſt for every petty chare,</l>
+                  <l>A Chriſtning, Burial, or a Churching-Prayer:</l>
+                  <l>Yet what they ſell to you they'l ſtill retain,</l>
+                  <l>A thouſand times you'l have the ſame again.</l>
+                  <l>To pay for one thing twice, is no fair play,</l>
+                  <l>But the Sun ſhines, and they will make their Hay:</l>
+                  <l>If this won't ſerve to ſtuff their ſtretched skins,</l>
+                  <l>They'l help to fill them with the Peoples ſins;</l>
+                  <l>Sins againſt God come not within their lurch,</l>
+                  <l>But heinous ſins, which are againſt the Church,</l>
+                  <l>Whoſe Officers as buſie are as Bees,</l>
+                  <l>To ſuck from thence the honey of their Fees.</l>
+                  <l>Such Remedies will cure any Fall;</l>
+                  <l>They've learn'd that Proverb, <hi>Money anſwers all.</hi>
+                  </l>
+                  <l>But to contemn the Church, that is an evil,</l>
+                  <l>Deſerves a plague no leſs than <hi>Take him Devil.</hi>
+                  </l>
+                  <pb n="7" facs="tcp:106536:4"/>
+                  <l>Stretch out your <hi>Purſe,</hi> &amp; ſhe'l ſtretch out her <hi>Arm,</hi>
+                  </l>
+                  <l>Make <hi>Satan</hi> redeliver without harm.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Antichriſts</hi> Church myſterious was of old;</l>
+                  <l>'Tis ſtill a Doubt his Doctors can't unfold:</l>
+                  <l>Some ſay the <hi>Pope,</hi> with's <hi>Cardinals</hi> ſay others,</l>
+                  <l>Who are the <hi>Conclave,</hi> and conjunct as brothers:</l>
+                  <l>Some ſay the <hi>Council <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi> ſhe;</l>
+                  <l>Others, the <hi>Clergy total</hi> it mu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>The <hi>Church <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>tional</hi> another <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>es?</l>
+                  <l>The <hi>Roman Catholick</hi> will ſwear he lies.</l>
+                  <l>Well ſhot of all, yet all the Mark do miſs,</l>
+                  <l>That ſeek it any where, but where it is:</l>
+                  <l>And till the Church is known, he's very quick,</l>
+                  <l>That can tell who is the <hi>true Schiſmatick.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And like her ſelf, in <hi>Myſtery</hi> ſhe is dreſt;</l>
+                  <l>(A faſhion of a general requeſt,</l>
+                  <l>With all the Kindred of the <hi>Romiſh Whore,</hi>
+                  </l>
+                  <l>By which you'l know them, if I ſay no more.)</l>
+                  <l>With <hi>Croſſier, Mitre,</hi> and the <hi>Fryars weeds,</hi>
+                  </l>
+                  <l>The <hi>Staff Paſtoral,</hi> and the <hi>mumbling Beads;</hi>
+                  </l>
+                  <l>The <hi>Rocket, Tippit, Caſſock, Cope</hi> and <hi>Hood,</hi>
+                  </l>
+                  <l>
+                     <hi>Lawn ſleeves</hi> and <hi>Surplice,</hi> more if you think good.</l>
+                  <l>A <hi>Sacred Girdle</hi> binds them all together,</l>
+                  <l>Of finer ſtuff than was <hi>John Baptiſts</hi> Leather.</l>
+               </lg>
+               <lg>
+                  <l>Theſe Myſteries ſet forth Religious men,</l>
+                  <l>But to the reſt, they are not one of ten;</l>
+                  <l>Yet all ordained are to ſignifie</l>
+                  <l>Some Truth or Falſhood in a <hi>Myſterie.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="8" facs="tcp:106536:5"/>
+               <head>The WHORE.</head>
+               <l>A <hi>Subtil Whore,</hi> a Whore of Impudence,</l>
+               <l>Whoſe brazen Forehead is her beſt defence.</l>
+               <l>A <hi>gaudy Whore,</hi> her out-ſide is her beſt,</l>
+               <l>Strip her of that, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is all the reſt.</l>
+               <l>A <hi>deep-dy'd Who<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o his than Scarlet red,</l>
+               <l>Her Garmen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are dip<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bloo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Yet call her Whore, &amp; ſhe ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> rotectors,</l>
+               <l>The Horns o'th Beaſt wil take her part like <hi>Hectors.</hi>
+               </l>
+               <l>A <hi>Spotted Whore,</hi> and of her ſpots ſhe's proud;</l>
+               <l>Againſt all purity ſhe's ſworn and vow'd.</l>
+               <l>A <hi>flattring Whore,</hi> do but her luſts fulfill,</l>
+               <l>She'l ſay both what, and when, and how you will.</l>
+               <l>A <hi>Common Whore,</hi> for all men ſhe hath room,</l>
+               <l>But thoſe that hate and will not at her come.</l>
+               <l>A <hi>Whore contagious,</hi> I dare avouch her,</l>
+               <l>You'l be infected if you do but touch her.</l>
+               <l>A <hi>fruitful Whore,</hi> a thing that's very rare,</l>
+               <l>The World's half fill'd with Harlots ſhe did bear.</l>
+               <l>And though like Whores they ſcold one at another,</l>
+               <l>They are as like as Daughter and the Mother.</l>
+               <l>You need not then go ſeek the Whore at <hi>Rome,</hi>
+               </l>
+               <l>Theſe Spectacles will find her <hi>nearer home.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The Man of Sin.</head>
+               <l>THe premiſes my pains have ſaved here,</l>
+               <l>Two lines ſufficiently bring up the Rear;</l>
+               <l>He is a <hi>Man,</hi> but of all men the worſt,</l>
+               <l>Made up <hi>of Sin,</hi> and above all men curſt.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
